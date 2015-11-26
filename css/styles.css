@@ -1,0 +1,32 @@
+body {
+  background-color:rgb(2, 101, 41);	
+}
+
+h1 {
+  color:white;	
+}
+
+p {
+  color:white;
+}
+a {
+ color:white;
+}
+
+a:hover {
+  color:purple;
+}
+a:visited {
+  color:red;
+}
+
+.splash-img {
+	display: block;
+	margin:auto;
+	padding:10px;
+}
+.splash-img img {
+	
+	height:20%;
+	width: 20%;
+}
